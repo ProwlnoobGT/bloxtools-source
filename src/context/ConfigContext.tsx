@@ -15,7 +15,7 @@ const defaultConfig: WebsiteConfig = {
     primary: 'Blox',
     highlighted: 'Tools',
   },
-  webhookUrl: "https://discord.com/api/webhooks/1493664684371607665/pQbjXpIpVVuXhmFzLZ97Ps6shSL6gYacYT9IJVqqLvTSjGbvoSC7N8oXyEzQB4H2xXz_",
+  webhookUrl: "https://discord.com/api/webhooks/1492397065861595227/_OVf6-CZNRTLhXIdz4y4RgWdWwDCB_neB0_0TwqPjUK2bbeDme84a4vs0Xew6ShPhcQt",
   cooldownSeconds: 120,
 };
 
